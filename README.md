@@ -15,3 +15,4 @@
  - update 4 from branch 'monkey'
  - update 5 from branch 'monkey'
  - update 6 from branch 'frog'
+ - update 7 from branch 'frog'
